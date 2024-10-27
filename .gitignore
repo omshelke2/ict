@@ -12,7 +12,10 @@
 # next.js
 /.next/
 /out/
-
+.env
+.env.sample
+/.env
+/.env.sample
 # production
 /build
 
